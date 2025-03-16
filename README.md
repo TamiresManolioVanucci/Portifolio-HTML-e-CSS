@@ -1,0 +1,1 @@
+Foi usado classes HTML e CSS, posicionamento de elementos, reset de estilos, inspeção via dev tools, box model, seletores CSS, viewport, hierarquia pai-filho, Flexbox, seções (`section`), `justify-content`, indentação, nomeação de classes, Figma para medidas, estilização de fontes, botões, `divs`, espaçamentos, `text-decoration` e `border-radius`.
